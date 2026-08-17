@@ -1,4 +1,4 @@
 # taimoor_demo
 this is my first git repository
 <br>
-Author_ Mohammad Taimoor
+Author_ Mohammad Taimoor (brohi)
